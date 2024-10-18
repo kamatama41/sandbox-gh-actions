@@ -5,6 +5,7 @@ on:
   #   - cron: '10 9 * * *'
 
 jobs:
+  # test
   oidc_debug_test:
     permissions:
       contents: read
